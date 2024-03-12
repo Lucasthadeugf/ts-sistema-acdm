@@ -1,1 +1,1 @@
-# sistema-acad-mico
+# sistema-acadmico
